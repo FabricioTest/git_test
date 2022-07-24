@@ -103,3 +103,7 @@ def encontra_multiplos(equacoes, variaveis_list):
         multiplos_list.append(numeros_da_equacao)
         
     return multiplos_list
+
+def um_teste_aqui():
+    print("ahhhh")
+    return "humm"
